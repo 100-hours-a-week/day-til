@@ -7,6 +7,8 @@ KTB 3기 - 클라우드 과정 Today I Learn (5주차 부터의 기록) - day.ho
 
 ### [5주차, 10월 3쨰주] : HTML / CSS / JS
 
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width="15" height="15"> 5주차 과제 수행 일지](https://midnight-catcher-3a7.notion.site/5-28e7d817ab0a8077aaa3cbc67052898e?source=copy_link)
+- 25.10.16 BE 아키텍처 및 구현시 고민 포인트 / FE 구축 및 서버연결 과제 ([상세 내역 링크](https://github.com/HongDay/day-til/blob/main/Oct/2025-10-16.md))
 - 25.10.15 FE - 웹 서비스 구축 / WS, AS, WAS ([상세 내역 링크](https://github.com/HongDay/day-til/blob/main/Oct/2025-10-15.md))
 - 25.10.14 세부 주제 2 작성 (상세 내역 링크)
 - 25.10.13 세부 주제 1 작성 (상세 내역 링크)
